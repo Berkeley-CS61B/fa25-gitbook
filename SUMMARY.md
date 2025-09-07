@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Spring 2025 Textbook](README.md)
+* [Fall 2025 Textbook](README.md)
 * [Contributors](<README (1).md>)
 * [DISCLAIMER](disclaimer.md)
 * [1. Introduction](1.-introduction/README.md)
