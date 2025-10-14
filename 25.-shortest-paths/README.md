@@ -2,5 +2,5 @@
 description: 'By: Mihir Mirchandani and Teresa Luo'
 ---
 
-# 24. Shortest Paths
+# 25. Shortest Paths
 

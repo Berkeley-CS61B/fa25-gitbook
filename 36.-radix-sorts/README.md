@@ -2,5 +2,5 @@
 description: By Mihir Mirchandani
 ---
 
-# 35. Radix Sorts
+# 36. Radix Sorts
 

@@ -1,4 +1,4 @@
-# 19.1 Introduction to Hashing: Data Indexed Arrays
+# 20.1 Introduction to Hashing: Data Indexed Arrays
 
 So far in the course, we've taken a look at many ways to store things in data structures, but they're not always the most efficient in terms of runtime. Enter an incredible data structure that can provide insertion, removal, and contains checks, regardless of how many elements are inside of it (even if theres millions of items)– all in O(1) runtime in the best case! Sound too good to be true?&#x20;
 

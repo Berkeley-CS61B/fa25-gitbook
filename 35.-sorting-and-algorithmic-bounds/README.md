@@ -2,5 +2,5 @@
 description: By William Lee and Angel Aldaco
 ---
 
-# 34. Sorting  and Algorithmic Bounds
+# 35. Sorting  and Algorithmic Bounds
 
