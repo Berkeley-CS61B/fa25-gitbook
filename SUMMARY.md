@@ -7,7 +7,6 @@
   * [1.1 Your First Java Program](1.-introduction/1.1-your-first-java-program.md)
   * [1.2 Java Workflow](1.-introduction/1.2-java-workflow.md)
   * [1.3 Basic Java Features](1.-introduction/1.3-basic-java-features.md)
-  * [1.4 Exercises](1.-introduction/1.4-exercises.md)
 * [2. Defining and Using Classes](2.-defining-and-using-classes.md)
 * [3. References, Recursion, and Lists](3.-references-recursion-and-lists.md)
 * [4. SLLists](4.-sllists.md)
