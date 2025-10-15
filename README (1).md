@@ -20,3 +20,4 @@ description: 61B Course Staff who helped contribute to this amazing 61Book!
 * Stella Kaval
 * Aniruth Narayanan
 * Circle Chen
+* Ricardo Sandoval
